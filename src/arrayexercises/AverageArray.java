@@ -4,7 +4,7 @@ public class AverageArray {
 
     public static void main(String[] args) {
 
-        //create array with numbers
+        // Create array with numbers
         int[] numbers = {20, 30, 25, 35, -16, 60, -100};
 
         // Initialize sum variable
