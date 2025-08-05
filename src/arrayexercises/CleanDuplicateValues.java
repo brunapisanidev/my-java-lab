@@ -1,3 +1,5 @@
+package arrayexercises;
+
 import java.util.Arrays;
 
 public class CleanDuplicateValues {

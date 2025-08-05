@@ -1,3 +1,5 @@
+package arrayexercises;
+
 import java.util.Arrays;
 
 // Important:This implementation does not increase the array size.
